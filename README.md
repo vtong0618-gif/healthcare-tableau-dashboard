@@ -23,3 +23,7 @@ Interactive Tableau dashboard analyzing:
 - Several ICD diagnoses dominate across multiple age groups
 - Average patient visit frequency is 4.8 visits
 - Certain CPT procedures are consistently performed most frequently
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
